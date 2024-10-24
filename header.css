@@ -24,7 +24,7 @@ padding: 1em;
 }
 
 .lista_menu {
-    display: none;ç
+    display: none;
 } 
 
 .container_botao:checked ~ .lista_menu {
